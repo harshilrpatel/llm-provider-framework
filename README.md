@@ -443,7 +443,3 @@ If you encounter any issues or have questions:
 - openai >= 1.85.0
 - anthropic >= 0.39.0
 - python-dotenv >= 1.1.0
-
----
-
-**Made with ❤️ by the LLM Provider Framework Team**
